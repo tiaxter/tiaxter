@@ -4,5 +4,5 @@
 - 🚩 Used languages: ```php```, ```js```, ```python```, ```c++```, ```dart```, ```go```
 - 🏫 Learning all about **Laravel**
 - 📫 How to reach me: [Instagram @jerrypalmi8](https://www.instagram.com/jerrypalmi8/), [Telegram @tiaxter](https://t.me/tiaxter)
-- 😄 Pronouns: **Never give up! Plus Ultra!**
+- 😄 My motto: **Never give up! Plus Ultra!**
 - ⚡ Fun fact: I'm a huge fan of Anime and Manga [**Shinjitsu wa itsumo hitotsu!**]
