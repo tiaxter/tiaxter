@@ -24,7 +24,7 @@
             <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart%20-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white">
             <img align="center" alt="Go" src="https://img.shields.io/badge/Go%20-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white">
             <img align="center" alt="Java" src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white">
-        </span><
+        </span>
     </li>
     <li>
         <span>
