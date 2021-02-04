@@ -45,12 +45,12 @@
     </li>
     <li>
         <span>
-            😄 My motto:&nbsp;<b>Never give up! Plus Ultra!</b>
+            😄 My motto:&nbsp;<b>Never give up!</b>
         </span>
     </li>
     <li>
         <span>
-          ⚡ Fun fact:&nbsp;I'm a huge fan of Anime and Manga&nbsp;<b>Shinjitsu wa itsumo hitotsu!</b>
+          ⚡ Fun fact:&nbsp;I'm a huge fan of Anime and Manga&nbsp;
         </span>
     </li>
 </ul>
