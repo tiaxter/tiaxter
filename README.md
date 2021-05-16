@@ -30,6 +30,7 @@
         <span>
             🏫 Learning all about:&nbsp;
             <img align="center" alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
+            <img align="center" alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white">
         </span>
     </li>
     <li>
