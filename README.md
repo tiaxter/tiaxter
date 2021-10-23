@@ -2,7 +2,7 @@
 <ul>
     <li>
         <span>
-            🏢 I’m currently working at ECIT s.r.l.
+            🏢 I’m currently working part time
         </span>
     </li>
     <li>
