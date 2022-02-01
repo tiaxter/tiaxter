@@ -46,11 +46,6 @@
     </li>
     <li>
         <span>
-            😄 My motto:&nbsp;<b>Never give up!</b>
-        </span>
-    </li>
-    <li>
-        <span>
           ⚡ Fun fact:&nbsp;I'm a huge fan of Anime and Manga&nbsp;
         </span>
     </li>
